@@ -1,0 +1,3 @@
+IN CMD:
+
+python sample.py --len1024 100
